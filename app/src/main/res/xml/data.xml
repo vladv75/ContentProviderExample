@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+        <purchase data="10.12.2015" time="12:13" category="обувь" price="1250">кросовки</purchase>
+        <purchase data="12.12.2015" time="10:30" category="продукты" price="20">хлеб</purchase>
+        <purchase data="12.12.2015" time="10:30" category="продукты" price="30">молоко</purchase>
+        <purchase data="12.12.2015" time="10:30" category="продукты" price="55">яйца</purchase>
+        <purchase data="14.12.2015" time="11:11" category="одежда" price="1250">курточка зимняя</purchase>
+</data>

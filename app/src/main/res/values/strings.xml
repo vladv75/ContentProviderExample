@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AccountPurchases</string>
+    <string name="action_settings">Загрузить XML</string>
+    <string name="action_clear">Очистить базу</string>
+    <string name="textSaveButton">Сохранить</string>
+    <string name="delete_record">Удалить запись</string>
+    <string name="copy_record">Скопировать запись</string>
+    <string name="hint_date">Дата</string>
+    <string name="hint_time">Время</string>
+    <string name="hint_description">Описание товара</string>
+    <string name="hint_category">Категория товара</string>
+    <string name="hint_price">Цена</string>
+    <string name="tv_purchase">Покупка</string>
+    <string name="rub">" руб."</string>
+</resources>
